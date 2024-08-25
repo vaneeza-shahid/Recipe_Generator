@@ -1,6 +1,7 @@
+pip install google-generativeai
+
 import os
 import streamlit as st
-pip install google-generativeai
 import google.generativeai as genai
 
 # Configure the Gemini API with your API key
